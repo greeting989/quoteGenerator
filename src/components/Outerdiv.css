@@ -1,0 +1,45 @@
+.outerDiv {
+  width: 853px;
+  height: 446px;
+  background-color: #a89b8c;
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  margin: auto;
+}
+
+.innderDiv {
+  width: 446px;
+  height: 214px;
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  margin: auto;
+  background: #ffffff;
+  padding: 1rem 2rem;
+}
+
+.quote{
+  text-align: center;
+  
+}
+
+.author{
+  text-align: center;
+}
+
+.genBtn{
+  position: absolute;
+width: 370px;
+height: 70px;
+top: 372px;
+left: 250px;
+background: #D36135;
+border-radius: 33px;
+color: white;
+font-size: 1.5rem;
+}
